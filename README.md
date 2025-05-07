@@ -15,6 +15,11 @@ I'm Bryant Beltran, a student at Brigham Young University-Idaho interested in Co
 - Proficient in: <Python, C#>
 - Skills: <Languages: English, Spanish, Microsoft Office>
 
+## Current Projects
+
+- CollegeEventPlanner[Link](https://github.com/BryantBeltran/CollegeSocial)
+- Universal Dictionary Group Collaboration [Link](https://github.com/che1748/Team9-dictionary)
+
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/bryant-beltran-848032164) profile
