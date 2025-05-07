@@ -6,18 +6,18 @@ I'm Bryant Beltran, a student at Brigham Young University-Idaho interested in Co
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning to create apps in Android Studio and Algorithms
+- My goals are to innovate and create something that would benefit society and be able to pursue a career in Software Engineering
+- Ask me about how your skills developed overtime and what things you wished you change in your current state of profession
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: <Python, C#>
+- Skills: <Languages: English, Spanish, Microsoft Office>
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/bryant-beltran-848032164) profile
+- Here is my [Twitter](https://www.x.com/bryantbeltran2) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
