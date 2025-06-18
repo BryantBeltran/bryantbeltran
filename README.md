@@ -1,28 +1,44 @@
-# Bryant Beltran
+# 👋 Hi, I'm Bryant Beltran
 
-**## Hi there 👋
+🎓 Computer Science Student at Brigham Young University–Idaho  
+📍 Based in Los Angeles, CA | 🌐 Bilingual: English & Spanish  
+💻 Passionate about software development, mobile apps, and tech that benefits society
 
-I'm Bryant Beltran, a student at Brigham Young University-Idaho interested in Computer Science . Welcome to my GitHub profile!
+---
 
-## About Me
+## 🔧 Technologies & Tools
 
-- I'm currently learning to create apps in Android Studio and Algorithms
-- My goals are to innovate and create something that would benefit society and be able to pursue a career in Software Engineering
-- Ask me about how your skills developed overtime and what things you wished you change in your current state of profession
+- **Languages**: Python, C#
+- **Developer Tools**: Android Studio, Visual Studio, Git & GitHub, Retrofit (Kotlin)
+- **Productivity**: Microsoft Office Suite (Excel, Word, PowerPoint)
 
-## Technologies and Tools
+---
 
-- Proficient in: <Python, C#>
-- Skills: <Languages: English, Spanish, Microsoft Office>
+## 🚀 What I'm Working On
 
-## Current Projects
+- 📱 **[CollegeEventPlanner](https://github.com/BryantBeltran/CollegeSocial)** – An Android app to organize college events and streamline communication.
+- 🌍 **[Universal Dictionary](https://github.com/che1748/Team9-dictionary)** – A collaborative dictionary project to support multilingual learners and global accessibility.
 
-- CollegeEventPlanner[Link](https://github.com/BryantBeltran/CollegeSocial)
-- Universal Dictionary Group Collaboration [Link](https://github.com/che1748/Team9-dictionary)
+---
 
-## Let's Connect!
+## 🎯 Goals
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/bryant-beltran-848032164) profile
-- Here is my [Twitter](https://www.x.com/bryantbeltran2) profile
+- Learn advanced algorithms and full-stack development
+- Build scalable applications that solve real-world problems
+- Land an internship or entry-level role in Software Engineering
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+---
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bryant-beltran-848032164)
+- 🐦 [Twitter](https://www.x.com/bryantbeltran2)
+- 📫 **Feel free to open an issue or reach out via LinkedIn – I'd love to connect!**
+
+---
+
+## 📝 Fun Prompt (For You!)
+
+> "Ask me how I developed my skills over time, or what I'd do differently if I started my journey again!"
+
+Thanks for visiting — happy coding! 🚀
