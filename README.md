@@ -36,9 +36,4 @@
 - 📫 **Feel free to open an issue or reach out via LinkedIn – I'd love to connect!**
 
 ---
-
-## 📝 Fun Prompt (For You!)
-
-> "Ask me how I developed my skills over time, or what I'd do differently if I started my journey again!"
-
 Thanks for visiting — happy coding! 🚀
