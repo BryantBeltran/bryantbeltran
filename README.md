@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BryantBeltran/BryantBeltran/main/B1FE4DC7-B5A5-4B14-8287-B922BFE7249A.png" alt="Bryant Beltran Banner" style="width:100%;"/>
 # 👋 Hi, I'm Bryant Beltran
 
 🎓 Computer Science Student at Brigham Young University–Idaho  
@@ -37,5 +38,5 @@
 
 ---
 Thanks for visiting — happy coding! 🚀
-<img src="https://raw.githubusercontent.com/BryantBeltran/BryantBeltran/main/B1FE4DC7-B5A5-4B14-8287-B922BFE7249A.png" alt="Bryant Beltran Banner" style="width:100%;"/>
+
 
