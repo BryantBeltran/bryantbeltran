@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BryantBeltran/BryantBeltran/main/B1FE4DC7-B5A5-4B14-8287-B922BFE7249A.png" alt="Bryant Beltran Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/BryantBeltran/BryantBeltran/main/B1FE4DC7-B5A5-4B14-8287-B922BFE7249A.png" alt="Bryant Beltran Banner" style="width:25%;"/>
 
 
 # 👋 Hi, I'm Bryant Beltran
